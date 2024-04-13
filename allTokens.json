@@ -1,5 +1,6 @@
 [
   {
+    "key": "0x049d36570d4e46f48e99674bd3fcc84644ddd6b96f7c741b1562b82f9e004dc7",
     "name": "Ether",
     "address": "0x049d36570d4e46f48e99674bd3fcc84644ddd6b96f7c741b1562b82f9e004dc7",
     "symbol": "ETH",
@@ -8,6 +9,7 @@
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
   },
   {
+    "key": "0x04718f5a0fc34cc1af16a1cdee98ffb20c31f5cd61d6ab07201858f4287c938d",
     "name": "Starknet",
     "address": "0x04718f5a0fc34cc1af16a1cdee98ffb20c31f5cd61d6ab07201858f4287c938d",
     "symbol": "STRK",
@@ -16,6 +18,7 @@
     "logoURI": "https://static.jediswap.xyz/tokens-list/assets/STRK.png"
   },
   {
+    "key": "0x03fe2b97c1fd336e750087d68b9b867997fd64a2661ff3ca5a7c771641e8e7ac",
     "name": "Wrapped BTC",
     "address": "0x03fe2b97c1fd336e750087d68b9b867997fd64a2661ff3ca5a7c771641e8e7ac",
     "symbol": "WBTC",
@@ -24,6 +27,7 @@
     "logoURI": "https://static.jediswap.xyz/tokens-list/assets/WBTC.png"
   },
   {
+    "key": "0x00da114221cb83fa859dbdb4c44beeaa0bb37c7537ad5ae66fe5e0efd20e6eb3",
     "name": "Dai Stablecoin (old)",
     "address": "0x00da114221cb83fa859dbdb4c44beeaa0bb37c7537ad5ae66fe5e0efd20e6eb3",
     "symbol": "DAIv0",
@@ -32,6 +36,7 @@
     "logoURI": "https://static.jediswap.xyz/tokens-list/assets/DAI.png"
   },
   {
+    "key": "0x05574eb6b8789a91466f902c380d978e472db68170ff82a5b650b95a58ddf4ad",
     "name": "Dai Stablecoin",
     "address": "0x05574eb6b8789a91466f902c380d978e472db68170ff82a5b650b95a58ddf4ad",
     "symbol": "DAI",
@@ -40,6 +45,7 @@
     "logoURI": "https://static.jediswap.xyz/tokens-list/assets/DAI.png"
   },
   {
+    "key": "0x053c91253bc9682c04929ca02ed00b3e423f6710d2ee7e0d5ebb06f3ecf368a8",
     "name": "USDCoin",
     "address": "0x053c91253bc9682c04929ca02ed00b3e423f6710d2ee7e0d5ebb06f3ecf368a8",
     "symbol": "USDC",
@@ -48,6 +54,7 @@
     "logoURI": "https://static.jediswap.xyz/tokens-list/assets/USDC.png"
   },
   {
+    "key": "0x068f5c6a61780768455de69077e07e89787839bf8166decfbf92b645209c0fb8",
     "name": "Tether USD",
     "address": "0x068f5c6a61780768455de69077e07e89787839bf8166decfbf92b645209c0fb8",
     "symbol": "USDT",
@@ -56,6 +63,7 @@
     "logoURI": "https://static.jediswap.xyz/tokens-list/assets/USDT.png"
   },
   {
+    "key": "0x042b8f0484674ca266ac5d08e4ac6a3fe65bd3129795def2dca5c34ecc5f96d2",
     "name": "Wrapped stETH",
     "address": "0x042b8f0484674ca266ac5d08e4ac6a3fe65bd3129795def2dca5c34ecc5f96d2",
     "symbol": "wstETH",
@@ -64,6 +72,7 @@
     "logoURI": "https://static.jediswap.xyz/tokens-list/assets/wstETH.png"
   },
   {
+    "key": "0x0124aeb495b947201f5fac96fd1138e326ad86195b98df6dec9009158a533b49",
     "name": "LORDS",
     "address": "0x0124aeb495b947201f5fac96fd1138e326ad86195b98df6dec9009158a533b49",
     "symbol": "LORDS",
@@ -72,6 +81,7 @@
     "logoURI": "https://static.jediswap.xyz/tokens-list/assets/LORDS.png"
   },
   {
+    "key": "0x070a76fd48ca0ef910631754d77dd822147fe98a569b826ec85e3c33fde586ac",
     "name": "LUSD",
     "address": "0x070a76fd48ca0ef910631754d77dd822147fe98a569b826ec85e3c33fde586ac",
     "symbol": "LUSD",
@@ -80,35 +90,12 @@
     "logoURI": "https://static.jediswap.xyz/tokens-list/assets/LUSD.png"
   },
   {
+    "key": "0x0137dfca7d96cdd526d13a63176454f35c691f55837497448fad352643cfe4d4",
     "name": "Akamaru",
     "address": "0x0137dfca7d96cdd526d13a63176454f35c691f55837497448fad352643cfe4d4",
     "symbol": "AKU",
     "decimals": 18,
     "chainId": 23448594291968336,
     "logoURI": "https://static.jediswap.xyz/tokens-list/assets/AKU.png"
-  },
-  {
-    "name": "Stark Pepe",
-    "address": "0x01e0eee22c684fdf32babdd65e6bcca62a8ce2c23c8d5e68f3989595d26e1b4a",
-    "symbol": "SPEPE",
-    "decimals": 18,
-    "chainId": 23448594291968336,
-    "logoURI": "https://static.jediswap.xyz/tokens-list/assets/SPEPE.png"
-  },
-  {
-    "name": "OWL",
-    "address": "0x039877a272619050ab8b0e3e0a19b58d076fc2ce84da1dc73b699590e629f2b8",
-    "symbol": "OWL",
-    "decimals": 18,
-    "chainId": 23448594291968336,
-    "logoURI": "https://static.jediswap.xyz/tokens-list/assets/OWL.png"
-  },
-  {
-    "name": "Pain au Lait",
-    "address": "0x049201f03a0f0a9e70e28dcd74cbf44931174dbe3cc4b2ff488898339959e559",
-    "symbol": "PAL",
-    "decimals": 18,
-    "chainId": 23448594291968336,
-    "logoURI": "https://static.jediswap.xyz/tokens-list/assets/PAL.png"
   }
 ]
